@@ -1,3 +1,4 @@
 RA: 917106405
 Nome: Gabriel
-Curso: SI
+Data de Nascimento 29 38 1500
+Email|: pafuncio @ gmail.com
